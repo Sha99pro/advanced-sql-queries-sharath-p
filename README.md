@@ -1,0 +1,1 @@
+Working with advanced SQL opened up new ways to analyze data. I learned how to tie tables together with JOINs, run calculations using GROUP BY, SUM, and COUNT, and pull dynamic data using subqueries. The hardest hurdles to clear were figuring out when to use WHERE versus HAVING and visualizing how nested subqueries actually process data.
